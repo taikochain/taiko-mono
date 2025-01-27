@@ -101,6 +101,14 @@ export default defineConfig({
           ]
         },
         {
+          label: "Taiko Gwyneth Protocol",
+          items:
+          [{
+            label: "FAQ",
+            link: "/taiko-gwyneth-protocol/faq",
+          }]
+        },
+        {
           label: "Guides",
           items: [
             {
